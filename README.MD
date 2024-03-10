@@ -6,6 +6,8 @@
 
 * **E-mail**: forinnyy@gmail.com
 
+* **E-mail**: forinnyy@yandex.ru
+
 ## SOFTWARE
 
 * **OS**: MACOS Monterey 12.2
